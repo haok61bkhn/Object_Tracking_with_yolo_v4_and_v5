@@ -16,7 +16,7 @@ put model yolov5*.pt at folder yolov5/weights
     
 ---------------------------------------------
 or my detection algorithm
-  i proviced 2 detection algorithm:
+  that i proviced 2 detection algorithm:
   
   
     1) yolov4 :
