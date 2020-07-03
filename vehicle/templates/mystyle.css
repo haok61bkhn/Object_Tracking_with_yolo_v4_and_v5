@@ -1,0 +1,15 @@
+body{
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+#camera {
+    margin-left: 630px;
+    margin-top: 160px;
+    width: 615px;
+    height: 470px;
+    background-repeat: no-repeat;
+    background-color: rebeccapurple;
+}
